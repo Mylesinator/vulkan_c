@@ -51,4 +51,6 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-*.sh
+build.sh
+run
+run.exe
